@@ -1,3 +1,6 @@
+import #Primero se debe instalar:
+pip install python-telegram-bot
+
 import logging
 
 from telegram.ext import Updater, CommandHandler, MessageHandler, Filters
